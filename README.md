@@ -1,3 +1,8 @@
+# Sociopedia_Client
+
+Credits to: EdRoh
+https://www.youtube.com/watch?v=K8YELRmUb5o
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
